@@ -7,4 +7,4 @@ certificate generator
 - `npm install canvas`
 - rename your certificate template to 'certificate.png'
 - setup width, height, font size and location in 'index.js'
-- `node index.js --name"padreon padreon"` for start
+- `node index.js --name"your name"` for start
